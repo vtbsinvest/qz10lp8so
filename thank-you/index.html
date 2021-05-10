@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Спасибо!</title>
+
+    <link rel="icon" type="image/png" href="images/favicon.ico" sizes="96x96" />
+    <link href="css/fonts.css" rel="stylesheet">
+    <link href="css/app.css" rel="stylesheet">
+    <script src="js/dashboard_2019.js"
+            cache="true" async="async"></script>
+    <script src="js/jquery.min.js"
+            cache="true"></script>
+
+</head>
+<body>
+ <!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+var par = new URLSearchParams(window.location.search);
+var fbp = par.get('fbpixel');
+fbq('init', fbp);
+fbq('track', 'Lead');
+</script>
+<!-- End Facebook Pixel Code -->
+
+
+<div class="make_it_blur c_scroll">
+    <div class="top_img-thank h-430 h-xs-410 background-cover d-flex align-items-center"
+         data-original="images/light.jpg" style="display: none; height: 280px!important;background-image: url('images/light.jpg');">
+        <div style="position: absolute;width:100%;height:280px!important;background:#000;opacity:0.1;"></div>
+        <div class="logo-vtb">
+            <img src="images/logo.png" alt="thank you">
+        </div>
+    </div>
+</div>
+<div class="container it-80 it-xs-52 ib-104 ib-sm-76 ib-xs-58">
+    <div class="font-black font-superbold font-44 font-sm-40 font-xs-28">
+        Спасибо!<br> Ваша заявка принята.
+
+    </div>
+    <div class="row t-18">
+        <div class="col-5 col-sm-7 col-xs-12 font-18 font-darkgray">
+            В ближайшие время вам позвонит наш специалист.<br/>Не пропустите звонок
+
+
+        </div>
+    </div>
+    <div class="t-34">
+        <a data-scrollto="" class="btn btn-inline btn-orange il-32 ir-32"
+           style="background: #009fdf; color: white;"
+           href="">На главную</a>
+    </div>
+</div>
+
+<style>
+  .logo-vtb {
+    width: 40%;
+    margin: 0 auto;
+  }
+
+  @media screen and (max-width: 800px) {
+    .logo-vtb {
+      width: 70%;
+    }
+  }
+</style>
+
+</body>
+</html>

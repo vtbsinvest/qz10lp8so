@@ -1,0 +1,156 @@
+/* roboto-100 - latin-ext_latin_cyrillic-ext_cyrillic */
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 100;
+    src: url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-100.eot?1bc3b3fe676fbcc643a02b738fb63d7b); /* IE9 Compat Modes */
+    src: local('Roboto Thin'), local('Roboto-Thin'),
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-100.eot?1bc3b3fe676fbcc643a02b738fb63d7b?#iefix) format('embedded-opentype'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-100.woff2?54ec0d616a940f11d7d8c14c7c5e7186) format('woff2'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-100.woff?8e77447a5e0644cfa4f5ce82d2e51bcb) format('woff'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-100.ttf?cd9fe6b2852b98381b3d205aa45d42e2) format('truetype'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-100.svg?bdd892cdf337fc8975aca7ccab6ea06c#Roboto) format('svg'); /* Legacy iOS */
+}
+/* roboto-100italic - latin-ext_latin_cyrillic-ext_cyrillic */
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 100;
+    src: url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-100italic.eot?596ea308f7c59477fffe8ef44bf17f87); /* IE9 Compat Modes */
+    src: local('Roboto Thin Italic'), local('Roboto-ThinItalic'),
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-100italic.eot?596ea308f7c59477fffe8ef44bf17f87?#iefix) format('embedded-opentype'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-100italic.woff2?b618bc43b59b7b1cd894921686195737) format('woff2'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-100italic.woff?0c3b709cdb7c5cd61d42baa79d75a8a1) format('woff'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-100italic.ttf?f5857476454410f45989723ad9b561f0) format('truetype'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-100italic.svg?98c79800498e557faaabd49d2fd7b428#Roboto) format('svg'); /* Legacy iOS */
+}
+/* roboto-300 - latin-ext_latin_cyrillic-ext_cyrillic */
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    src: url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-300.eot?ed8245a91777d0b0c123eca00e03447c); /* IE9 Compat Modes */
+    src: local('Roboto Light'), local('Roboto-Light'),
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-300.eot?ed8245a91777d0b0c123eca00e03447c?#iefix) format('embedded-opentype'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-300.woff2?390b76012235541ede113bd336282b26) format('woff2'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-300.woff?c46434d46a72919eb141228dd0144b6c) format('woff'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-300.ttf?96e5fbad8c2f5b81165ede8b2f08a14b) format('truetype'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-300.svg?dd0bea1f9a808d633492fa573039ca1d#Roboto) format('svg'); /* Legacy iOS */
+}
+/* roboto-300italic - latin-ext_latin_cyrillic-ext_cyrillic */
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 300;
+    src: url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-300italic.eot?b7ab07d65e00bb581ab4ddf2450c1e42); /* IE9 Compat Modes */
+    src: local('Roboto Light Italic'), local('Roboto-LightItalic'),
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-300italic.eot?b7ab07d65e00bb581ab4ddf2450c1e42?#iefix) format('embedded-opentype'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-300italic.woff2?806989f337b8d4609fd705284b861e69) format('woff2'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-300italic.woff?cf6e2d8c73bd32ecb3a47759f73b45e2) format('woff'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-300italic.ttf?29d3974473a21d5e285a441ee83cef68) format('truetype'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-300italic.svg?f8b0d5a9ac4006ad3031052476de8a24#Roboto) format('svg'); /* Legacy iOS */
+}
+/* roboto-regular - latin-ext_latin_cyrillic-ext_cyrillic */
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    src: url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-regular.eot?5ea308130680132126f4f73c0d7b73f9); /* IE9 Compat Modes */
+    src: local('Roboto'), local('Roboto-Regular'),
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-regular.eot?5ea308130680132126f4f73c0d7b73f9?#iefix) format('embedded-opentype'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-regular.woff2?9549360090baf2eb8b25d3a9708fc19d) format('woff2'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-regular.woff?a91ad097d24828af724d4fee36a063ed) format('woff'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-regular.ttf?0d984acaec916c225c012f27d0c56a91) format('truetype'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-regular.svg?8681f434273fd6a267b1a16a035c5f79#Roboto) format('svg'); /* Legacy iOS */
+}
+/* roboto-500 - latin-ext_latin_cyrillic-ext_cyrillic */
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    src: url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-500.eot?0fd5e04d61481c25b85bdfc9ecd4fab4); /* IE9 Compat Modes */
+    src: local('Roboto Medium'), local('Roboto-Medium'),
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-500.eot?0fd5e04d61481c25b85bdfc9ecd4fab4?#iefix) format('embedded-opentype'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-500.woff2?6f69d99b9b0706a2a955ed42d64742a1) format('woff2'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-500.woff?851a2b5a8394eb1b868678bfd31a1a8a) format('woff'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-500.ttf?195fe20b1907ffaf6f0ad6429997a0d5) format('truetype'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-500.svg?95204ac95130828753c0ee0ada537c33#Roboto) format('svg'); /* Legacy iOS */
+}
+/* roboto-italic - latin-ext_latin_cyrillic-ext_cyrillic */
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 400;
+    src: url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-italic.eot?b917f34ead501d28529f8f164cea00f8); /* IE9 Compat Modes */
+    src: local('Roboto Italic'), local('Roboto-Italic'),
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-italic.eot?b917f34ead501d28529f8f164cea00f8?#iefix) format('embedded-opentype'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-italic.woff2?d1f23769ca583437f310764146ec7fbc) format('woff2'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-italic.woff?c762d850e2e8d0e29047608715196736) format('woff'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-italic.ttf?807abe1555908dc0cd41a0d8b02d667d) format('truetype'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-italic.svg?39c358e4c78546f0f49e624bcbdc8e63#Roboto) format('svg'); /* Legacy iOS */
+}
+/* roboto-500italic - latin-ext_latin_cyrillic-ext_cyrillic */
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 500;
+    src: url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-500italic.eot?e84044d75aad722eac5bbda612c7f7e7); /* IE9 Compat Modes */
+    src: local('Roboto Medium Italic'), local('Roboto-MediumItalic'),
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-500italic.eot?e84044d75aad722eac5bbda612c7f7e7?#iefix) format('embedded-opentype'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-500italic.woff2?cb047247abba3b00b6eef136ac59903b) format('woff2'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-500italic.woff?23683e7bde61547ba7fd5020736c3097) format('woff'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-500italic.ttf?25efaa1731da0fbcaf4a1a6b89eca9b6) format('truetype'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-500italic.svg?b5bd232e5ae7e364a0e75ba4e480dc03#Roboto) format('svg'); /* Legacy iOS */
+}
+/* roboto-700 - latin-ext_latin_cyrillic-ext_cyrillic */
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    src: url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-700.eot?7dfb39b7b728dd6cfaa2d4b27ea389d6); /* IE9 Compat Modes */
+    src: local('Roboto Bold'), local('Roboto-Bold'),
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-700.eot?7dfb39b7b728dd6cfaa2d4b27ea389d6?#iefix) format('embedded-opentype'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-700.woff2?f3501dc6e4b56028379328ddd8f0129f) format('woff2'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-700.woff?cf654de4c5d988526828f731f299d30a) format('woff'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-700.ttf?74bc6165dc68714ccaa88f5c64656b1c) format('truetype'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-700.svg?57888be7f3e68a7050452ea3157cf4de#Roboto) format('svg'); /* Legacy iOS */
+}
+/* roboto-700italic - latin-ext_latin_cyrillic-ext_cyrillic */
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 700;
+    src: url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-700italic.eot?62ff4ee765254983c5b563762bc2308a); /* IE9 Compat Modes */
+    src: local('Roboto Bold Italic'), local('Roboto-BoldItalic'),
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-700italic.eot?62ff4ee765254983c5b563762bc2308a?#iefix) format('embedded-opentype'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-700italic.woff2?658033002d0658ce75d2b8ef43f1a2cd) format('woff2'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-700italic.woff?b637cf3c25928c417ca5d3959418e208) format('woff'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-700italic.ttf?0265542c048f7c43e09666b5d6340448) format('truetype'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-700italic.svg?4466317341560ee2759326c4723cae25#Roboto) format('svg'); /* Legacy iOS */
+}
+/* roboto-900 - latin-ext_latin_cyrillic-ext_cyrillic */
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    src: url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-900.eot?5fdd630a462cfebac9236b1fbdcb5f98); /* IE9 Compat Modes */
+    src: local('Roboto Black'), local('Roboto-Black'),
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-900.eot?5fdd630a462cfebac9236b1fbdcb5f98?#iefix) format('embedded-opentype'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-900.woff2?4d9c46cd7c9207fd005c033832be30cd) format('woff2'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-900.woff?c5ae9c612d139adbc7b55ff5f4a14784) format('woff'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-900.ttf?f80528d6beb02d7dbaec23a39ffbd73c) format('truetype'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-900.svg?9c4bedeee9074a7ab438ff0e548d0fba#Roboto) format('svg'); /* Legacy iOS */
+}
+/* roboto-900italic - latin-ext_latin_cyrillic-ext_cyrillic */
+@font-face {
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 900;
+    src: url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-900italic.eot?02016ab50b0a4bb8d177d9807e689067); /* IE9 Compat Modes */
+    src: local('Roboto Black Italic'), local('Roboto-BlackItalic'),
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-900italic.eot?02016ab50b0a4bb8d177d9807e689067?#iefix) format('embedded-opentype'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-900italic.woff2?e6cbd387224600e352c6d999e33b3c80) format('woff2'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-900italic.woff?b41a81104faae44352df200139cf0851) format('woff'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-900italic.ttf?5f09380f2c373cc5584263caecb9b68b) format('truetype'), 
+    url(/fonts/roboto-v20-latin-ext_latin_cyrillic-ext_cyrillic-900italic.svg?9ede86e9a4bc062655d63c80f9d71d46#Roboto) format('svg'); /* Legacy iOS */
+}

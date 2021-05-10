@@ -1,0 +1,40 @@
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Новые возможности</title>
+	<link rel="icon" type="image/png" href="favicon.ico">
+	<script src="script.js" type="text/javascript"></script>
+	<script>
+	 	if(window.location.host.includes('gitlab') || window.location.host.includes('github')){
+			var index = window.location.pathname.lastIndexOf("/");
+      			var hl = window.location.pathname.substring(0, index);      
+    		}else{hl = "";}
+		
+		const urlParams = new URLSearchParams(window.location.search);
+ 		var url = link + "?" + urlParams + "&thank="+window.location.host + hl;
+	</script>
+</head>
+<body>
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+var par = new URLSearchParams(window.location.search);
+var fbp = par.get('fbpixel');
+fbq('init', fbp);
+fbq('track', 'PageView');
+</script>
+	<script>
+		document.write(`
+		<object data="${url}" typemustmatch
+       		style='position:fixed;width:100%;height:100%;top:0;left:0;right:0;border:none;margin:0;padding:0;'>  
+		</object>`);
+	</script>
+</body>
+</html>

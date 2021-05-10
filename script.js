@@ -1,0 +1,1 @@
+var link = "https://vtb-vl.online/xV3fnS/";
